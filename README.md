@@ -2,7 +2,6 @@
 
 Flutter responsive layout building 
 
-watch video
 [![Watch Video](https://img.youtube.com/vi/a4TFufrfChg/0.jpg)](https://www.youtube.com/watch?v=a4TFufrfChg)
 
 ## About
